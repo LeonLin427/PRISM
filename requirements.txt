@@ -1,0 +1,10 @@
+# Core analysis environment; Python 3.11.
+# Recorded training used torch 2.11.0+cu128 on CPU.
+# This public-version pin does not lock the original CUDA build.
+numpy==2.4.6
+pandas==3.0.5
+scipy==1.17.1
+scikit-learn==1.9.0
+matplotlib==3.11.1
+openpyxl==3.1.5
+torch==2.11.0

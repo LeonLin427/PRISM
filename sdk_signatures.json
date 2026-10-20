@@ -1,0 +1,3531 @@
+[
+  {
+    "name": "七牛云 SDK",
+    "vendor": "七牛",
+    "category": "云服务/推流",
+    "miit_flagged": true,
+    "packages": [
+      "com.qiniu"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "qiniu.com",
+      "qiniucs.com",
+      "qiniuapi.com"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 公示信息不完整"
+    ]
+  },
+  {
+    "name": "66 手游",
+    "vendor": "海南瀚动网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "BillowlinkSDK-Android",
+    "vendor": "北京数怡星联科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "CMGEAndroid",
+    "vendor": "中手游网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [
+      "com.cmge"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "GHOME SDK",
+    "vendor": "上海数龙科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "HeroUSDK",
+    "vendor": "天津英雄互娱网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MediatomSDKAndroid",
+    "vendor": "北京前呈无限科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强制用户使用定向推送功能；强制、频繁、过度索取权限；信息窗口无法关闭；SDK 信息公示不到位",
+      "超范围收集个人信息；违规收集个人信息；违规使用个人信息；欺骗误导强迫用户；SDK公示信息不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Menta SDK",
+    "vendor": "上海芒拓网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；欺骗误导下载；SDK 使用说明不完整；所涉问题"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MentaAndroidSDK",
+    "vendor": "上海芒拓网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MoskenAndroid SDK",
+    "vendor": "北京数优之行科技股份有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强制、频繁、过度索取权限；信息窗口乱跳转；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "NSAGClient-SDK",
+    "vendor": "格尔软件股份有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Oneway SDK",
+    "vendor": "广东万唯计算机服务有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Suyi 聚合",
+    "vendor": "杭州艾狄墨搏信息服务有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "TurboEngine- AndroidSDK",
+    "vendor": "云金天下（杭州）网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制用户使用定向推送功能；信息窗口乱跳转；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "UltraSDK",
+    "vendor": "成都英雄互娱科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "X-SDKAndroid",
+    "vendor": "西安数据如金信息科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "XInstallAndroid SDK",
+    "vendor": "杭州数爆科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "【OCR 识别】离 线 SDK",
+    "vendor": "厦门市图睿信息科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "一元手游Android-SDK",
+    "vendor": "广州悦玩网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "上造 SDK",
+    "vendor": "广州上造网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "位库-Android-UAID SDK",
+    "vendor": "北京位库科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "剧星-精品短剧 SDK",
+    "vendor": "浙江出海数字技术有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "千帆 SDK",
+    "vendor": "上海钒讯科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "基础技术SDK",
+    "vendor": "思必驰科技股份有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息"
+    ],
+    "packages": [
+      "com.aispeech"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "多酷网游",
+    "vendor": "天津多酷紫桐科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "大咖玩",
+    "vendor": "广州掌跃网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "威拜特 sdk",
+    "vendor": "威拜特（北京）科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；强制用户使用定向推送功能；信息窗口无法关闭；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "小 7 手游SDK",
+    "vendor": "深圳尚米网络技术有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位",
+      "违规使用个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "掌趣网游SDK",
+    "vendor": "北京掌趣科技股份有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [
+      "com.ourpalm"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "新义 SDK",
+    "vendor": "新义互联（北京）科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "星云-聚合渠道SDK-Android",
+    "vendor": "厦门游力信息科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "枫岚互联SDK",
+    "vendor": "北京格瑞创新科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "深链",
+    "vendor": "北京微方程科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 强制、频繁、过度索取权限；欺骗误导强迫用户；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "激活鸟AndroidSDK",
+    "vendor": "青岛激活鸟数字传媒有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "联道 SDK",
+    "vendor": "上海联道文化传媒有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "收集个人信息明示告知不到位；违规利用个人信息开展自动化决策",
+      "违规收集个人信息；超范围收集个人信息；信息窗口乱跳转；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "聚合AndroidSDK",
+    "vendor": "广州米壳信息科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "芯盾时代智能人机识别SDK",
+    "vendor": "北京芯盾时代科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "译图智讯二代证离线识别",
+    "vendor": "北京译图智讯科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "SDK 强制、频繁、过度索取权限；SDK 使用说明不完整；所涉问题"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "语音红包SDK",
+    "vendor": "杭州新量象网络科技有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；信息窗口无法关闭；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "超鼎SDK-android",
+    "vendor": "超鼎盛华（北京）科技发展有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；信息窗口无法关闭；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "通用文字识别",
+    "vendor": "上海盈五蓄数据",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 强制、频繁、过度索取权限；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "鲤跃 SDK",
+    "vendor": "随身云（南京）信息技术有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；强制用户使用定向推送功能；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "龙图安卓 SDK",
+    "vendor": "北京中清龙图网络技术有限公司",
+    "category": "其他",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MobTech(ShareSDK/MobSDK)",
+    "vendor": "游昆信息",
+    "category": "分享/统计",
+    "miit_flagged": true,
+    "packages": [
+      "cn.sharesdk",
+      "com.mob"
+    ],
+    "so_libs": [
+      "libMobSec.so"
+    ],
+    "meta_keys": [
+      "Mob-AppKey",
+      "Mob-AppSecret"
+    ],
+    "domains": [
+      "mob.com",
+      "sharesdk.cn"
+    ],
+    "flagged_violations": [
+      "超范围收集个人信息；SDK公示信息不完整"
+    ]
+  },
+  {
+    "name": "Submall-一键登录",
+    "vendor": "上海赛邮云计算有限公司",
+    "category": "号码认证",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "一键登录SDK",
+    "vendor": "北京位库科技有限公司",
+    "category": "号码认证",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MineLocationAndroid SDK",
+    "vendor": "北京世纪高通科技有限公司",
+    "category": "地图",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MineNaviAndroidSDK",
+    "vendor": "北京世纪高通科技有限公司",
+    "category": "地图",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "wzLocation",
+    "vendor": "武汉维网智芯信息科技有限公司",
+    "category": "地图",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "维智Android 定位 SDK",
+    "vendor": "武汉维网智芯信息科技有限公司",
+    "category": "地图",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "维智地图",
+    "vendor": "维智卓新",
+    "category": "地图",
+    "miit_flagged": true,
+    "packages": [
+      "com.wayz",
+      "com.wz.location"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "wayz.ai"
+    ],
+    "flagged_violations": [
+      "SDK 强制、频繁、过度索取权限；SDK 使用说明不完整；所涉问题"
+    ]
+  },
+  {
+    "name": "EnSDP 零信任安全接入SDK",
+    "vendor": "江苏易安联网络技术有限公司",
+    "category": "安全",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "GuardAndroid SDK",
+    "vendor": "北京蒸汽记忆科技有限公司",
+    "category": "安全",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "顶象无感验证",
+    "vendor": "顶象技术",
+    "category": "安全验证",
+    "miit_flagged": true,
+    "packages": [
+      "com.dingxiang",
+      "cn.dingxiang",
+      "com.ding.captcha"
+    ],
+    "so_libs": [
+      "libdxbase.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "dingxiang-inc.com",
+      "capd.top"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息；SDK 强制、频繁、过度索取权限；SDK 使用说明不完整；所涉问题"
+    ]
+  },
+  {
+    "name": "逸创云客服",
+    "vendor": "逸创信息",
+    "category": "客服",
+    "miit_flagged": true,
+    "packages": [
+      "com.kf5",
+      "com.kf5sdk",
+      "im.kf5"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "kf5.com",
+      "yckf5.com"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息；SDK 使用说明不完整"
+    ]
+  },
+  {
+    "name": "AdBrightSDK",
+    "vendor": "皓量科技（深圳）有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；欺骗误导强迫用户；强制用户使用定向推送功能；应用分发平台上的APP 信息明示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "AdLinkSDK",
+    "vendor": "北京数怡星联科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "AdView 广告(快友)",
+    "vendor": "快友世纪",
+    "category": "广告",
+    "miit_flagged": true,
+    "packages": [
+      "com.kyview",
+      "com.adview"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "adview.com",
+      "adview.cn"
+    ],
+    "flagged_violations": [
+      "收集个人信息明示告知不到位；违规利用个人信息开展自动化决策；欺骗误导用户下载APP；欺骗误导用户使用产品或服务",
+      "欺骗误导强迫用户"
+    ]
+  },
+  {
+    "name": "Adarea 广告SDK 安卓版",
+    "vendor": "杭州钰风科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制用户使用定向推送功能；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "AppicAdSDK",
+    "vendor": "北京金域互动科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "MTE 广告SDK",
+    "vendor": "科敦信息技术（上海）有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "OneAdSDK",
+    "vendor": "北京凡提科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "QBmob 广告",
+    "vendor": "杭州趣变网络科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；欺骗误导强迫用户；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "QuickAD 广告追踪 SDK",
+    "vendor": "成都惜东网络科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "TapADN SDK",
+    "vendor": "易玩（上海）网络科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制用户使用定向推送功能；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "UBiX Merak",
+    "vendor": "优比客思",
+    "category": "广告",
+    "miit_flagged": true,
+    "packages": [
+      "com.ubix",
+      "com.ubixss"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "ubixai.com",
+      "ubixioe.com"
+    ],
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ]
+  },
+  {
+    "name": "adSet 广告SDK",
+    "vendor": "上海神蓍信息科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；欺骗误导强迫用户；SDK 公示信息不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "uni-AD 原生广告",
+    "vendor": "数字天堂（北京）网络技术有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；信息窗口乱跳转"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "九吨 Android广告 SDK",
+    "vendor": "重庆市九吨科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "信息窗口未提供关闭或退出标识；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "众简广告SDK-Android",
+    "vendor": "杭州众简信息技术有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；信息窗口无法关闭；信息窗口乱跳转"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "优优广告SDK",
+    "vendor": "深圳市素人网络科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；信息窗口点击乱跳转；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "优推广告SDK",
+    "vendor": "北京乐游阳光科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "天目Ads SDK",
+    "vendor": "杭州艾狄墨搏信息服务有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "懒人广告 SDK",
+    "vendor": "北京懒人信息科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；误导用户下载；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "汇盈广告SDK",
+    "vendor": "上海震来科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；信息窗口乱跳转；信息窗口无法关闭；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "猫广告",
+    "vendor": "杭州三脚猫网络科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；误导用户下载；SDK 使用说明不完整；所涉问题"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "畅游天际广告投放平台",
+    "vendor": "福建畅游天际网络科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "知鸟广告SDK",
+    "vendor": "玩出未来（北京）科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "神蓍广告安卓SDK",
+    "vendor": "上海神蓍信息科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "米盟聚合广告",
+    "vendor": "小米",
+    "category": "广告",
+    "miit_flagged": true,
+    "packages": [
+      "com.mimeng",
+      "com.miui.msa"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "mimeng.xiaomi.com"
+    ],
+    "flagged_violations": [
+      "欺骗误导用户使用产品或服务"
+    ]
+  },
+  {
+    "name": "西域传媒-ADSDK",
+    "vendor": "四川才谦广告传媒有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；信息窗口未提供关闭或退出标识；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "闪玩广告 SDK",
+    "vendor": "厦门点即玩科技有限公司",
+    "category": "广告",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "tradplus 聚合广告",
+    "vendor": "世全网络",
+    "category": "广告聚合",
+    "miit_flagged": true,
+    "packages": [
+      "com.tradplus"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "tradplusad.com",
+      "tradplus.com"
+    ],
+    "flagged_violations": [
+      "超范围收集个人信息；所涉问题"
+    ]
+  },
+  {
+    "name": "Zxing 二维码",
+    "vendor": "开源",
+    "category": "开源库",
+    "miit_flagged": true,
+    "packages": [
+      "com.google.zxing"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [],
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ]
+  },
+  {
+    "name": "乐播投屏",
+    "vendor": "乐播",
+    "category": "投屏",
+    "miit_flagged": true,
+    "packages": [
+      "com.hpplay"
+    ],
+    "so_libs": [
+      "libhpplay-mdns.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "hpplay.com.cn",
+      "lebo.cn"
+    ],
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ]
+  },
+  {
+    "name": "玄武 ipush",
+    "vendor": "广州市玄武无线科技股份有限公司",
+    "category": "推送",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Smartisan 支付 SDK",
+    "vendor": "北京大眼星空科技有限公司",
+    "category": "支付",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "内购SDK",
+    "vendor": "北京龙威互动科技有限公司",
+    "category": "支付",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "移动端应用订阅SDK",
+    "vendor": "北京神奇工场科技有限公司",
+    "category": "支付",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "虫虫支付 SDK",
+    "vendor": "厦门市虫虫网络科技有限公司",
+    "category": "支付",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "360单机SDK",
+    "vendor": "北京世界星辉科技有限责任公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规使用第三方服务"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Miracle GamesAndroid SDK",
+    "vendor": "北京奇游灵动科技有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "八门神器联运 SDK",
+    "vendor": "长沙传骏信息科技有限责任公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "坚果游戏SDK",
+    "vendor": "坚果互娱（天津）网络科技有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "多酷单机 SDK",
+    "vendor": "天津多酷紫桐科技有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；违规使用个人信息；强制用户使用定向推送功能"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "昆磐游戏聚合 SDK",
+    "vendor": "海南昆磐网络技术有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "果玩游戏联运 SDK",
+    "vendor": "山东新岱宗网络文化有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强制用户使用定向推送功能；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "果盘游戏SDK",
+    "vendor": "火烈鸟网络（广州）股份有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；强迫收集非必要个人信息",
+      "违规收集个人信息；超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [
+      "com.guopan"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "海马云游戏",
+    "vendor": "海马云（天津）信息技术有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "绝峰游戏-安卓 SDK",
+    "vendor": "陕西绝峰易游网络科技有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整",
+      "违规收集个人信息；超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "迅雷游戏 SDK",
+    "vendor": "深圳市迅雷网络技术有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ],
+    "packages": [
+      "com.xunlei"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "魅族联运 SDK",
+    "vendor": "魅族",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "packages": [
+      "com.meizu.game"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "game.meizu.com"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息"
+    ]
+  },
+  {
+    "name": "黑鲨游戏SDK",
+    "vendor": "南昌黑鲨科技有限公司",
+    "category": "游戏联运",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "DataTower.ai",
+    "vendor": "深圳薯塔信息技术有限公司",
+    "category": "统计分析",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "超范围收集个人信息；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "HinaCloudSDK(海纳)",
+    "vendor": "海纳",
+    "category": "统计分析",
+    "miit_flagged": true,
+    "packages": [
+      "com.hina"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "hinacloud.com.cn"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 信息公示不到位；所涉问题"
+    ]
+  },
+  {
+    "name": "TalkingData",
+    "vendor": "腾云天下",
+    "category": "统计分析",
+    "miit_flagged": true,
+    "packages": [
+      "com.talkingdata",
+      "com.tendcloud"
+    ],
+    "so_libs": [
+      "libtendata.so"
+    ],
+    "meta_keys": [
+      "TD_APP_ID",
+      "TalkingDataAppId"
+    ],
+    "domains": [
+      "talkingdata.com",
+      "tendcloud.com",
+      "xdrig.com"
+    ],
+    "flagged_violations": [
+      "超范围收集个人信息；违规收集个人信息"
+    ]
+  },
+  {
+    "name": "易观方舟分析",
+    "vendor": "易观",
+    "category": "统计分析",
+    "miit_flagged": true,
+    "packages": [
+      "com.analysys"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "analysys.cn",
+      "analysysdata.com"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；强制、频繁、过度索取权限；SDK 使用说明不完整",
+      "违规收集个人信息；超范围收集个人信息；SDK 使用说明不完整"
+    ]
+  },
+  {
+    "name": "神策数据",
+    "vendor": "神策网络",
+    "category": "统计分析",
+    "miit_flagged": true,
+    "packages": [
+      "com.sensorsdata"
+    ],
+    "so_libs": [
+      "libsensorsdata.so"
+    ],
+    "meta_keys": [
+      "com.sensorsdata.analytics.android.SA_SERVER_URL"
+    ],
+    "domains": [
+      "sensorsdata.cn",
+      "sensorsdatavip.com"
+    ],
+    "flagged_violations": [
+      "超范围收集个人信息"
+    ]
+  },
+  {
+    "name": "驰声语音评测",
+    "vendor": "驰声信息",
+    "category": "语音",
+    "miit_flagged": true,
+    "packages": [
+      "com.chivox",
+      "cn.com.chivox"
+    ],
+    "so_libs": [
+      "libchivox.so",
+      "libaiengine.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "chivox.com",
+      "cloud.chivox.com"
+    ],
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息"
+    ]
+  },
+  {
+    "name": "云屋多人音视频 SDK",
+    "vendor": "深圳市云屋科技有限公司",
+    "category": "音视频",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "欢拓云直播播放 SDK",
+    "vendor": "广州欢拓网络科技有限公司",
+    "category": "音视频",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "违规收集个人信息；超范围收集个人信息；SDK 公示信息不完整"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "目睹直播播放器 SDK",
+    "vendor": "杭州雅顾科技有限公司",
+    "category": "音视频",
+    "miit_flagged": true,
+    "flagged_violations": [
+      "强制、频繁、过度索取权限；SDK 信息公示不到位"
+    ],
+    "packages": [],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "百度 AI",
+    "vendor": "百度",
+    "category": "AI 能力",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.aip"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "aip.baidubce.com"
+    ]
+  },
+  {
+    "name": "腾讯云 SDK",
+    "vendor": "腾讯",
+    "category": "云服务",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.cosxml",
+      "com.qcloud",
+      "com.tencent.qcloud"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "myqcloud.com",
+      "qcloud.com",
+      "tencentcos.cn"
+    ]
+  },
+  {
+    "name": "阿里云 SDK",
+    "vendor": "阿里",
+    "category": "云服务",
+    "miit_flagged": false,
+    "packages": [
+      "com.aliyun",
+      "com.alibaba.sdk",
+      "com.efs",
+      "com.ali.security"
+    ],
+    "so_libs": [
+      "libsgmain.so",
+      "libsgsecuritybody.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "aliyuncs.com",
+      "aliyun.com",
+      "emas-poc.com"
+    ]
+  },
+  {
+    "name": "Face++ 旷视",
+    "vendor": "旷视",
+    "category": "人脸识别",
+    "miit_flagged": false,
+    "packages": [
+      "com.megvii",
+      "com.faceplusplus"
+    ],
+    "so_libs": [
+      "libmegface.so",
+      "libMegviiFacepp.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "faceid.com",
+      "megvii.com"
+    ]
+  },
+  {
+    "name": "商汤科技",
+    "vendor": "商汤",
+    "category": "人脸识别",
+    "miit_flagged": false,
+    "packages": [
+      "com.sensetime"
+    ],
+    "so_libs": [
+      "libst_mobile.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "sensetime.com"
+    ]
+  },
+  {
+    "name": "友盟 U-Share/分享",
+    "vendor": "友盟+",
+    "category": "分享",
+    "miit_flagged": false,
+    "packages": [
+      "com.umeng.socialize"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "share.umeng.com"
+    ]
+  },
+  {
+    "name": "QQ 互联 SDK",
+    "vendor": "腾讯",
+    "category": "分享/登录",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.open",
+      "com.tencent.connect",
+      "com.tencent.tauth"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "openmobile.qq.com"
+    ]
+  },
+  {
+    "name": "微博 SDK",
+    "vendor": "新浪",
+    "category": "分享/登录",
+    "miit_flagged": false,
+    "packages": [
+      "com.sina.weibo",
+      "com.sina.sso"
+    ],
+    "so_libs": [
+      "libweibosdkcore.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "weibo.com",
+      "weibo.cn"
+    ]
+  },
+  {
+    "name": "抖音开放 SDK",
+    "vendor": "字节跳动",
+    "category": "分享/登录",
+    "miit_flagged": false,
+    "packages": [
+      "com.bytedance.sdk.open"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "open.douyin.com",
+      "aweme.snssdk.com"
+    ]
+  },
+  {
+    "name": "微信开放 SDK",
+    "vendor": "腾讯",
+    "category": "分享/登录/支付",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.mm.opensdk",
+      "com.tencent.mm.sdk"
+    ],
+    "so_libs": [
+      "libwechatmm.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "weixin.qq.com",
+      "szminorshort.weixin.qq.com"
+    ]
+  },
+  {
+    "name": "360 加固保",
+    "vendor": "360",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "com.stub.StubApp"
+    ],
+    "so_libs": [
+      "libjiagu.so",
+      "libjiagu_x86.so",
+      "libjiagu_art.so",
+      "libjiagu_a64.so",
+      "libjgcwz.so",
+      "libjgcwz_a64.so"
+    ],
+    "meta_keys": [],
+    "domains": [],
+    "assets": [
+      "assets/libjiagu.so",
+      "assets/.jgapp",
+      "assets/libjgcwz.so",
+      "assets/libjgcwz_a64.so"
+    ]
+  },
+  {
+    "name": "娜迦加固",
+    "vendor": "娜迦",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "com.nqshield"
+    ],
+    "so_libs": [
+      "libnqshield.so",
+      "libedog.so"
+    ],
+    "meta_keys": [],
+    "domains": [],
+    "assets": [
+      "assets/edog"
+    ]
+  },
+  {
+    "name": "梆梆加固",
+    "vendor": "梆梆安全",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "com.secneo"
+    ],
+    "so_libs": [
+      "libsecexe.so",
+      "libsecmain.so",
+      "libDexHelper.so"
+    ],
+    "meta_keys": [],
+    "domains": [],
+    "assets": []
+  },
+  {
+    "name": "爱加密加固",
+    "vendor": "爱加密",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "s.h.e.l.l"
+    ],
+    "so_libs": [
+      "libexec.so",
+      "libexecmain.so"
+    ],
+    "meta_keys": [],
+    "domains": [],
+    "assets": [
+      "assets/ijiami.dat",
+      "assets/ijm_lib"
+    ]
+  },
+  {
+    "name": "百度加固",
+    "vendor": "百度",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.protect"
+    ],
+    "so_libs": [
+      "libbaiduprotect.so",
+      "libbaiduprotect_x86.so"
+    ],
+    "meta_keys": [],
+    "domains": [],
+    "assets": []
+  },
+  {
+    "name": "腾讯乐固/御安全",
+    "vendor": "腾讯",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.StubShell"
+    ],
+    "so_libs": [
+      "libshell.so"
+    ],
+    "meta_keys": [],
+    "domains": [],
+    "assets": [
+      "assets/libshella-2.10.4.1.so",
+      "assets/libshellx-2.10.4.1.so"
+    ]
+  },
+  {
+    "name": "环信 IM",
+    "vendor": "环信",
+    "category": "即时通讯",
+    "miit_flagged": false,
+    "packages": [
+      "com.hyphenate"
+    ],
+    "so_libs": [
+      "libhyphenate.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "easemob.com"
+    ]
+  },
+  {
+    "name": "网易云信",
+    "vendor": "网易",
+    "category": "即时通讯",
+    "miit_flagged": false,
+    "packages": [
+      "com.netease.nimlib",
+      "com.netease.nrtc"
+    ],
+    "so_libs": [
+      "libnim.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "netease.im",
+      "163.com"
+    ]
+  },
+  {
+    "name": "腾讯 IM",
+    "vendor": "腾讯",
+    "category": "即时通讯",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.imsdk",
+      "com.tencent.qalsdk"
+    ],
+    "so_libs": [
+      "libimsdk.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "im.qcloud.com"
+    ]
+  },
+  {
+    "name": "融云 IM",
+    "vendor": "融云",
+    "category": "即时通讯",
+    "miit_flagged": false,
+    "packages": [
+      "io.rong"
+    ],
+    "so_libs": [
+      "librongimlib.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "rongcloud.cn",
+      "ronghub.com"
+    ]
+  },
+  {
+    "name": "中国移动一键登录",
+    "vendor": "中移动",
+    "category": "号码认证",
+    "miit_flagged": false,
+    "packages": [
+      "com.cmic.sso",
+      "com.cmpass"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "cmpassport.com",
+      "10086.cn"
+    ]
+  },
+  {
+    "name": "友盟 U-Verify 一键登录",
+    "vendor": "友盟+",
+    "category": "号码认证",
+    "miit_flagged": false,
+    "packages": [
+      "com.umeng.umverify",
+      "com.mobile.auth"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "verify.cmpassport.com"
+    ]
+  },
+  {
+    "name": "电信天翼账号",
+    "vendor": "中电信",
+    "category": "号码认证",
+    "miit_flagged": false,
+    "packages": [
+      "cn.com.chinatelecom",
+      "com.ctc",
+      "com.tianyu"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "189.cn",
+      "ctaccount.cn",
+      "id.189.cn"
+    ]
+  },
+  {
+    "name": "联通认证",
+    "vendor": "中联通",
+    "category": "号码认证",
+    "miit_flagged": false,
+    "packages": [
+      "com.unicom",
+      "com.chinaunicom"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "10010.com",
+      "wostore.cn"
+    ]
+  },
+  {
+    "name": "阿里云号码认证",
+    "vendor": "阿里",
+    "category": "号码认证",
+    "miit_flagged": false,
+    "packages": [
+      "com.aliyun.auth",
+      "com.nirvana.tools"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "dypnsapi.aliyuncs.com"
+    ]
+  },
+  {
+    "name": "360 手机卫士/组件",
+    "vendor": "360",
+    "category": "安全组件",
+    "miit_flagged": false,
+    "packages": [
+      "com.qihoo.util",
+      "com.qihoo360"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "数美科技",
+    "vendor": "数美",
+    "category": "安全风控",
+    "miit_flagged": false,
+    "packages": [
+      "com.ishumei",
+      "cn.ishumei"
+    ],
+    "so_libs": [
+      "libsmAnti.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "ishumei.com",
+      "fengkongcloud.com"
+    ]
+  },
+  {
+    "name": "网易易盾",
+    "vendor": "网易",
+    "category": "安全风控",
+    "miit_flagged": false,
+    "packages": [
+      "com.netease.nis"
+    ],
+    "so_libs": [
+      "libnesec.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "dun.163.com",
+      "iriscs.com"
+    ]
+  },
+  {
+    "name": "极验验证",
+    "vendor": "极验",
+    "category": "安全验证",
+    "miit_flagged": false,
+    "packages": [
+      "com.geetest"
+    ],
+    "so_libs": [
+      "libgt3core.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "geetest.com",
+      "geettest.com"
+    ]
+  },
+  {
+    "name": "百度定位/地图",
+    "vendor": "百度",
+    "category": "定位/地图",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.location",
+      "com.baidu.lbsapi",
+      "com.baidu.mapapi"
+    ],
+    "so_libs": [
+      "liblocSDK8b.so",
+      "liblocSDK7d.so",
+      "libBaiduMapSDK_base_v7_5_4.so"
+    ],
+    "meta_keys": [
+      "com.baidu.lbsapi.API_KEY"
+    ],
+    "domains": [
+      "api.map.baidu.com",
+      "loc.map.baidu.com"
+    ]
+  },
+  {
+    "name": "腾讯地图/定位",
+    "vendor": "腾讯",
+    "category": "定位/地图",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.map",
+      "com.tencent.tencentmap",
+      "com.tencent.lbssearch"
+    ],
+    "so_libs": [
+      "libtxmapengine.so"
+    ],
+    "meta_keys": [
+      "TencentMapSDK"
+    ],
+    "domains": [
+      "apis.map.qq.com",
+      "mapapi.qq.com"
+    ]
+  },
+  {
+    "name": "高德地图/定位",
+    "vendor": "高德",
+    "category": "定位/地图",
+    "miit_flagged": false,
+    "packages": [
+      "com.amap.api",
+      "com.autonavi",
+      "com.loc"
+    ],
+    "so_libs": [
+      "libamapv303.so",
+      "libAMapSDK_MAP_v9_8_0.so"
+    ],
+    "meta_keys": [
+      "com.amap.api.v2.apikey"
+    ],
+    "domains": [
+      "amap.com",
+      "lbs.amap.com",
+      "restapi.amap.com"
+    ]
+  },
+  {
+    "name": "微信刷脸/实名",
+    "vendor": "腾讯",
+    "category": "实名认证",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.face"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "腾讯 Bugly",
+    "vendor": "腾讯",
+    "category": "崩溃统计",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.bugly"
+    ],
+    "so_libs": [
+      "libBugly.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "bugly.qq.com"
+    ]
+  },
+  {
+    "name": "AdMob",
+    "vendor": "Google",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.google.android.gms.ads",
+      "com.google.ads"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "com.google.android.gms.ads.APPLICATION_ID"
+    ],
+    "domains": [
+      "googlesyndication.com",
+      "doubleclick.net",
+      "admob.com"
+    ]
+  },
+  {
+    "name": "InMobi 广告",
+    "vendor": "InMobi",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.inmobi"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "inmobi.com",
+      "inmobicdn.net"
+    ]
+  },
+  {
+    "name": "Mintegral 广告",
+    "vendor": "汇量科技",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.mbridge.msdk"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "mintegral.com",
+      "mbridge.com"
+    ]
+  },
+  {
+    "name": "OPPO 广告",
+    "vendor": "OPPO",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.heytap.ad",
+      "com.opos.cs"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "adsfs.oppomobile.com",
+      "oppo.com"
+    ]
+  },
+  {
+    "name": "Sigmob 广告",
+    "vendor": "Sigmob",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.sigmob"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "sigmob.com"
+    ]
+  },
+  {
+    "name": "vivo 广告",
+    "vendor": "vivo",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.vivo.ad",
+      "com.vivo.mobilead"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "adx.vivo.com.cn"
+    ]
+  },
+  {
+    "name": "优量汇(广点通)",
+    "vendor": "腾讯",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.qq.e"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "gdt.qq.com",
+      "mi.gdt.qq.com",
+      "sdk.e.qq.com"
+    ]
+  },
+  {
+    "name": "华为广告",
+    "vendor": "华为",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.huawei.hms.ads",
+      "com.huawei.openalliance.ad"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "ads.hicloud.com"
+    ]
+  },
+  {
+    "name": "小米广告",
+    "vendor": "小米",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.xiaomi.ad",
+      "com.miui.systemAdSolution"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "ad.xiaomi.com",
+      "adv.sec.miui.com"
+    ]
+  },
+  {
+    "name": "快手广告联盟",
+    "vendor": "快手",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.kwad",
+      "com.kwad.sdk",
+      "com.kwad.components",
+      "com.kwai",
+      "com.kuaishou",
+      "com.ksad",
+      "com.yxcorp"
+    ],
+    "so_libs": [
+      "libkwsgmain.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "kwai.com",
+      "gifshow.com",
+      "ksapisrv.com"
+    ]
+  },
+  {
+    "name": "百度联盟广告",
+    "vendor": "百度",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.mobads",
+      "com.baidu.mobad"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "mobad.baidu.com"
+    ]
+  },
+  {
+    "name": "穿山甲/巨量引擎",
+    "vendor": "字节跳动",
+    "category": "广告",
+    "miit_flagged": false,
+    "packages": [
+      "com.bytedance.sdk.openadsdk",
+      "com.bytedance.embedapplog",
+      "com.bytedance.pangle",
+      "com.pangle",
+      "com.bykv",
+      "com.ss.android",
+      "com.czhj",
+      "com.bytedance.msdk"
+    ],
+    "so_libs": [
+      "libttmodule.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "pangle.io",
+      "pangolin-sdk-toutiao.com",
+      "is.snssdk.com",
+      "ad.toutiao.com"
+    ]
+  },
+  {
+    "name": "火山引擎/字节云",
+    "vendor": "字节跳动",
+    "category": "云服务",
+    "miit_flagged": false,
+    "packages": [
+      "com.volcengine"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "volcengine.com",
+      "volccdn.com"
+    ]
+  },
+  {
+    "name": "字节 JProtect 加固",
+    "vendor": "字节跳动",
+    "category": "加固",
+    "miit_flagged": false,
+    "packages": [
+      "com.bytedance.jprotect",
+      "com.bytedance.JProtect"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "EventBus",
+    "vendor": "greenrobot",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "org.greenrobot.eventbus",
+      "de.greenrobot.event"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Glide",
+    "vendor": "bumptech",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.bumptech.glide"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Gson",
+    "vendor": "Google",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.google.gson"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "OkHttp/OkIO",
+    "vendor": "Square",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "okhttp3",
+      "okio",
+      "retrofit2"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "RxJava/RxAndroid",
+    "vendor": "ReactiveX",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "io.reactivex",
+      "rx"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "SmartRefreshLayout",
+    "vendor": "scwang90",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.scwang"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "腾讯 MMKV",
+    "vendor": "腾讯",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.mmkv"
+    ],
+    "so_libs": [
+      "libmmkv.so"
+    ],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Adjust",
+    "vendor": "Adjust",
+    "category": "归因分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.adjust.sdk"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "adjust.com",
+      "adjust.io"
+    ]
+  },
+  {
+    "name": "AppsFlyer",
+    "vendor": "AppsFlyer",
+    "category": "归因分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.appsflyer"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "appsflyer.com",
+      "appsflyersdk.com"
+    ]
+  },
+  {
+    "name": "腾讯 Matrix",
+    "vendor": "腾讯",
+    "category": "性能监控",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.matrix"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "OPPO 推送",
+    "vendor": "OPPO",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.heytap.msp",
+      "com.heytap.mcssdk",
+      "com.heytap.push"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "heytapmobi.com",
+      "heytap.com"
+    ]
+  },
+  {
+    "name": "vivo 推送",
+    "vendor": "vivo",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.vivo.push"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "com.vivo.push.api_key",
+      "com.vivo.push.app_id"
+    ],
+    "domains": [
+      "vivo.com.cn",
+      "vivoglobal.com"
+    ]
+  },
+  {
+    "name": "个推",
+    "vendor": "每日互动",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.igexin",
+      "com.getui"
+    ],
+    "so_libs": [
+      "libgetuiext3.so",
+      "libgetuiext2.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "getui.com",
+      "igexin.com",
+      "gtpush.com"
+    ]
+  },
+  {
+    "name": "小米推送 MiPush",
+    "vendor": "小米",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.xiaomi.push",
+      "com.xiaomi.mipush",
+      "com.xiaomi.channel",
+      "com.xiaomi.clientreport"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "MIPUSH_APPID",
+      "MIPUSH_APPKEY"
+    ],
+    "domains": [
+      "xiaomi.net",
+      "milog.ad.xiaomi.com"
+    ]
+  },
+  {
+    "name": "荣耀推送",
+    "vendor": "荣耀",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.hihonor.push",
+      "com.hihonor.mcs"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "hihonor.com",
+      "honor.com"
+    ]
+  },
+  {
+    "name": "魅族推送",
+    "vendor": "魅族",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.meizu.cloud"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "meizu.com",
+      "push.meizu.com"
+    ]
+  },
+  {
+    "name": "极光 JPush/JAnalytics",
+    "vendor": "极光",
+    "category": "推送/统计",
+    "miit_flagged": false,
+    "packages": [
+      "cn.jpush",
+      "cn.jiguang",
+      "cn.janalytics"
+    ],
+    "so_libs": [
+      "libjcore114.so",
+      "libjcore126.so",
+      "libjcore230.so"
+    ],
+    "meta_keys": [
+      "JPUSH_APPKEY",
+      "JPUSH_CHANNEL"
+    ],
+    "domains": [
+      "jpush.cn",
+      "jiguang.cn",
+      "jpush.io"
+    ]
+  },
+  {
+    "name": "华为 HMS/推送",
+    "vendor": "华为",
+    "category": "推送/账号",
+    "miit_flagged": false,
+    "packages": [
+      "com.huawei.hms",
+      "com.huawei.agconnect",
+      "com.huawei.hwid",
+      "com.huawei.hianalytics",
+      "com.huawei.hmf",
+      "com.mcs"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "com.huawei.hms.client.appid"
+    ],
+    "domains": [
+      "hicloud.com",
+      "push.hicloud.com",
+      "dbankcloud.com"
+    ]
+  },
+  {
+    "name": "支付宝 SDK",
+    "vendor": "蚂蚁集团",
+    "category": "支付",
+    "miit_flagged": false,
+    "packages": [
+      "com.alipay.sdk",
+      "com.alipay.android",
+      "com.alipay.mobile",
+      "com.alipay.apmobilesecuritysdk",
+      "com.alipay.tscenter",
+      "com.alipay.mobilesecuritysdk"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "alipay.com",
+      "alipayobjects.com"
+    ]
+  },
+  {
+    "name": "银联支付",
+    "vendor": "中国银联",
+    "category": "支付",
+    "miit_flagged": false,
+    "packages": [
+      "com.unionpay",
+      "com.umpay"
+    ],
+    "so_libs": [
+      "libuptsmaddon.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "unionpay.com",
+      "95516.com"
+    ]
+  },
+  {
+    "name": "腾讯 X5 内核(TBS)",
+    "vendor": "腾讯",
+    "category": "浏览器内核",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.tbs",
+      "com.tencent.smtt"
+    ],
+    "so_libs": [
+      "libtbs.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "tbs.qq.com",
+      "soft.tbs.imtt.qq.com"
+    ]
+  },
+  {
+    "name": "腾讯 Tinker",
+    "vendor": "腾讯",
+    "category": "热修复",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.tinker"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "TINKER_ID"
+    ],
+    "domains": []
+  },
+  {
+    "name": "阿里热修复 Sophix/AndFix",
+    "vendor": "阿里",
+    "category": "热修复",
+    "miit_flagged": false,
+    "packages": [
+      "com.taobao.sophix",
+      "com.alipay.euler.andfix"
+    ],
+    "so_libs": [
+      "libsophix.so"
+    ],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "阿里百川/mtop",
+    "vendor": "阿里",
+    "category": "电商云",
+    "miit_flagged": false,
+    "packages": [
+      "com.taobao",
+      "mtopsdk",
+      "anetwork.channel",
+      "anet.channel",
+      "com.ta.utdid2",
+      "com.ta.utdid",
+      "com.ut.device"
+    ],
+    "so_libs": [
+      "libtnet-3.1.14.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "taobao.com",
+      "mmstat.com",
+      "alibaba.com"
+    ]
+  },
+  {
+    "name": "头条/巨量日志",
+    "vendor": "字节跳动",
+    "category": "统计",
+    "miit_flagged": false,
+    "packages": [
+      "com.bytedance.applog",
+      "com.bytedance.mobsec"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "log.snssdk.com",
+      "mssdk-bu.bytedance.com"
+    ]
+  },
+  {
+    "name": "Firebase",
+    "vendor": "Google",
+    "category": "统计/推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.google.firebase"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "firebaseio.com",
+      "firebase.google.com"
+    ]
+  },
+  {
+    "name": "GrowingIO",
+    "vendor": "GrowingIO",
+    "category": "统计分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.growingio"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "GIO_PROJECT_ID"
+    ],
+    "domains": [
+      "growingio.com",
+      "gio.ren"
+    ]
+  },
+  {
+    "name": "友盟+ U-App/组件",
+    "vendor": "友盟+",
+    "category": "统计分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.umeng",
+      "com.uyumao",
+      "com.uc.crashsdk"
+    ],
+    "so_libs": [
+      "libumeng-spy.so",
+      "libcrashsdk.so"
+    ],
+    "meta_keys": [
+      "UMENG_APPKEY",
+      "UMENG_CHANNEL"
+    ],
+    "domains": [
+      "umeng.com",
+      "umeng.co",
+      "umengcloud.com",
+      "ulogs.umeng.com",
+      "uyumao.com"
+    ]
+  },
+  {
+    "name": "数数科技",
+    "vendor": "数数信息",
+    "category": "统计分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.thinkingdata",
+      "cn.thinkingdata"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "thinkingdata.cn",
+      "thinkingdata.io"
+    ]
+  },
+  {
+    "name": "热云 TrackingIO",
+    "vendor": "热云数据",
+    "category": "统计分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.reyun"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "reyun.com",
+      "trackingio.com"
+    ]
+  },
+  {
+    "name": "百度移动统计",
+    "vendor": "百度",
+    "category": "统计分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.mobstat"
+    ],
+    "so_libs": [],
+    "meta_keys": [
+      "BaiduMobAd_STAT_ID"
+    ],
+    "domains": [
+      "mobstat.baidu.com"
+    ]
+  },
+  {
+    "name": "保利威视频",
+    "vendor": "保利威",
+    "category": "视频云",
+    "miit_flagged": false,
+    "packages": [
+      "com.polyv"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "polyv.net",
+      "videocc.net"
+    ]
+  },
+  {
+    "name": "移动安全联盟 OAID(MSA)",
+    "vendor": "中国信通院/MSA",
+    "category": "设备标识",
+    "miit_flagged": false,
+    "packages": [
+      "com.bun",
+      "com.asus.msa",
+      "com.zui",
+      "com.heytap.openid",
+      "com.meizu.flyme.openid"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": [
+      "msa-alliance.com"
+    ]
+  },
+  {
+    "name": "百度语音识别",
+    "vendor": "百度",
+    "category": "语音",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.speech"
+    ],
+    "so_libs": [
+      "libBaiduSpeechSDK.so",
+      "libbdasr_V5.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "vop.baidu.com"
+    ]
+  },
+  {
+    "name": "科大讯飞",
+    "vendor": "科大讯飞",
+    "category": "语音",
+    "miit_flagged": false,
+    "packages": [
+      "com.iflytek"
+    ],
+    "so_libs": [
+      "libmsc.so"
+    ],
+    "meta_keys": [
+      "IFLYTEK_APPKEY"
+    ],
+    "domains": [
+      "xfyun.cn",
+      "iflytek.com"
+    ]
+  },
+  {
+    "name": "即构 Zego",
+    "vendor": "即构",
+    "category": "音视频",
+    "miit_flagged": false,
+    "packages": [
+      "im.zego"
+    ],
+    "so_libs": [
+      "libzego.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "zego.im",
+      "zegocloud.com"
+    ]
+  },
+  {
+    "name": "声网 Agora",
+    "vendor": "声网",
+    "category": "音视频",
+    "miit_flagged": false,
+    "packages": [
+      "io.agora"
+    ],
+    "so_libs": [
+      "libagora-rtc-sdk.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "agora.io",
+      "agoracdn.cn"
+    ]
+  },
+  {
+    "name": "腾讯云直播/播放器",
+    "vendor": "腾讯",
+    "category": "音视频",
+    "miit_flagged": false,
+    "packages": [
+      "com.tencent.liteav",
+      "com.tencent.rtmp"
+    ],
+    "so_libs": [
+      "libliteavsdk.so"
+    ],
+    "meta_keys": [],
+    "domains": [
+      "liteav.sdk.qcloud.com"
+    ]
+  },
+  {
+    "name": "FastJSON",
+    "vendor": "阿里巴巴",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.alibaba.fastjson"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Lottie 动画库",
+    "vendor": "Airbnb",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.airbnb.lottie"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Facebook Fresco 图片库",
+    "vendor": "Facebook",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.facebook.common",
+      "com.facebook.drawee",
+      "com.facebook.imagepipeline",
+      "com.facebook.datasource",
+      "com.facebook.imageutils",
+      "com.facebook.cache",
+      "com.facebook.soloader",
+      "com.facebook.fresco",
+      "com.facebook.imagepipelinebase",
+      "com.facebook.imageformat",
+      "com.facebook.animated",
+      "com.facebook.infer",
+      "com.facebook.binaryresource",
+      "com.facebook.drawable",
+      "com.facebook.widget",
+      "com.facebook.fbcore",
+      "com.facebook.nativefilters",
+      "com.facebook.nativeimagetranscoder",
+      "com.facebook.webpsupport"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "OkHttp",
+    "vendor": "Square",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.squareup.okhttp"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Picasso 图片库",
+    "vendor": "Square",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.squareup.picasso"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Wire 序列化",
+    "vendor": "Square",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.squareup.wire"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Glide 图片扩展",
+    "vendor": "豆瓣酱日",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "jp.wasabeef.glide"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "AndroidGifDrawable",
+    "vendor": "康凯",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "pl.droidsonroids.gif"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "IJKPlayer 播放器",
+    "vendor": "哔哩哔哩",
+    "category": "音视频",
+    "miit_flagged": false,
+    "packages": [
+      "tv.danmaku.ijk"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "BRVAH 列表适配器",
+    "vendor": "CHAD",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.chad.library"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "UCrop 图片裁剪",
+    "vendor": "Yalantis",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.yalantis.ucrop"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "字节直播 SDK",
+    "vendor": "字节跳动",
+    "category": "音视频",
+    "miit_flagged": false,
+    "packages": [
+      "com.byted.live"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Banner 轮播",
+    "vendor": "Youth",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.youth.banner"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "ButterKnife 注解库",
+    "vendor": "JakeWharton",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "butterknife.internal",
+      "butterknife.runtime"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "SQLCipher 加密库",
+    "vendor": "Zetetic",
+    "category": "安全",
+    "miit_flagged": false,
+    "packages": [
+      "net.sqlcipher"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Protobuf",
+    "vendor": "Google",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.google.protobuf",
+      "com.google.thirdparty"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Guava",
+    "vendor": "Google",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.google.common",
+      "com.google.errorprone",
+      "com.google.auto",
+      "com.google.j2objc"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "PhotoView 缩放",
+    "vendor": "ChrisBanes",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.github.chrisbanes"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "阿里云 MTA",
+    "vendor": "阿里云",
+    "category": "统计分析",
+    "miit_flagged": false,
+    "packages": [
+      "com.alibaba.mtl"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "PickerView 选择器",
+    "vendor": "Bingo",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.bigkoo.pickerview",
+      "com.contrarywind.view"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "AndroidUtilCode",
+    "vendor": "BlankJ",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.blankj.utilcode"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "设备标识 SDK",
+    "vendor": "个推",
+    "category": "设备标识",
+    "miit_flagged": false,
+    "packages": [
+      "com.vivo.identifier",
+      "com.coolpad.deviceidsupport"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "PushSDK",
+    "vendor": "个推",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "com.pushsdk"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "UniversalImageLoader",
+    "vendor": "Nostra13",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.nostra13.universalimageloader"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Luban 图片压缩",
+    "vendor": "Zibin",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "top.zibin.luban"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "PictureSelector",
+    "vendor": "Luck",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.luck.picture"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "PermissionsDispatcher",
+    "vendor": "Hjq",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.hjq.permissions"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "NineOldAndroids",
+    "vendor": "Jake",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.nineoldandroids"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "ReLinker",
+    "vendor": "GetKeepsafe",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.getkeepsafe.relinker"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "ImmersionBar",
+    "vendor": "Gyf",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.gyf.immersionbar"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Baidu 地图 SDK",
+    "vendor": "百度",
+    "category": "地图",
+    "miit_flagged": false,
+    "packages": [
+      "com.baidu.mapsdkplatform",
+      "com.baidu.platform"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Zip4j 解压",
+    "vendor": "Lingala",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "net.lingala.zip4j"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "AndroidVideoCache",
+    "vendor": "Danikula",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "com.danikula.videocache"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "SVGAPlayer",
+    "vendor": "YYVideo",
+    "category": "音视频",
+    "miit_flagged": false,
+    "packages": [
+      "com.opensource.svgaplayer"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Agoo Push",
+    "vendor": "阿里",
+    "category": "推送",
+    "miit_flagged": false,
+    "packages": [
+      "org.android.agoo"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Spdy 网络库",
+    "vendor": "阿里",
+    "category": "开源库",
+    "miit_flagged": false,
+    "packages": [
+      "org.android.spdy"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "美团点评 SDK",
+    "vendor": "美团",
+    "category": "其他",
+    "miit_flagged": false,
+    "packages": [
+      "com.meituan.android"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  },
+  {
+    "name": "Chromium 支持库",
+    "vendor": "Google",
+    "category": "浏览器内核",
+    "miit_flagged": false,
+    "packages": [
+      "org.chromium.support_lib_boundary"
+    ],
+    "so_libs": [],
+    "meta_keys": [],
+    "domains": []
+  }
+]

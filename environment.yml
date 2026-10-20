@@ -1,0 +1,15 @@
+name: android-privacy-sdk-analysis
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4.6
+  - pandas=3.0.5
+  - scipy=1.17.1
+  - scikit-learn=1.9.0
+  - matplotlib=3.11.1
+  - openpyxl=3.1.5
+  - pytorch=2.11.0
+# androguard is needed only when raw APKs are available for extract_features.py;
+# the archived-feature reanalysis in this repository does not require it.

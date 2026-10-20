@@ -1,0 +1,35 @@
+# Local environments, credentials, and editor state
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+
+# Raw binaries, disposable caches, and local regeneration output
+*.apk
+*.pkl
+labels_raw_backup.csv
+figures/
+runs/
+out/*
+!out/gnn_report.md
+!out/gnn_summary.json
+!out/m4_report.md
+!out/m5_report.md
+!out/m5_results.xlsx
+!out/ml_report.md
+!out/sdk_attribution.xlsx
+!out/sdk_risk_ranking.xlsx
+!out/stats/
+out/stats/*
+!out/stats/remediation_stats.csv
+
+# Included feature JSONs, graph tables, and reference results are intentional.

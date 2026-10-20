@@ -1,0 +1,7 @@
+M2 异构图统计(全量)
+节点: App 217 / SDK 129 / 权限 25 / API 18 = 389
+边: app-added-sdk 324, app-calls-api 3906, app-removed-sdk 214, app-requests-perm 2458, app-uses-sdk 5235, sdk-sdk 13924 = 26061
+
+孤立 App(无边): 0 []
+App 平均入/出度(use_sdk+req_perm+call_api+removed_sdk): 均值 55.9, min 25, max 114
+sdk-sdk 共现无向对 6962/8256 = 84.3%(本域 SDK 构成同质化, 共现层天然稠密; M3 消融验证其价值)

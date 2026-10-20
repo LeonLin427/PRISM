@@ -1,0 +1,3 @@
+# Preserve archived bytes across platforms so SHA256SUMS.json remains valid.
+# Git still detects text files for diffs; only newline conversion is disabled.
+* -text
