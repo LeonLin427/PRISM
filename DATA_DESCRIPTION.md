@@ -31,8 +31,10 @@
 | `so_libs`, `assets`, `domains` | Native-library/asset names and extracted domain names |
 
 The records are not anonymized app inventories. They do not include raw APK
-binaries, but may still contain third-party identifiers and metadata. Public
-redistribution requires author review.
+binaries, but retain third-party identifiers and metadata. The contributors'
+research data are provided under the MIT License; this does not license the
+underlying third-party applications or SDKs. See the licensing scope in
+`README.md`.
 
 ## Reference predictions
 

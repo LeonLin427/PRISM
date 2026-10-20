@@ -4,7 +4,7 @@ Research code and retained analysis inputs for **PRISM: Empirical Analysis of
 Android Privacy Remediation and SDK Risk Attribution Using Co-occurrence
 Heterogeneous Graphs**.
 
-This local release candidate contains the analysis of 217 notice events involving
+This repository contains the analysis of 217 notice events involving
 212 applications. Its 433 static-feature JSON files represent the unique APKs
 used in the analysis. The original APK binaries are not included and are no longer
 available in the project archive. Reproduction therefore starts from the retained
@@ -183,13 +183,24 @@ application; auxiliary SDK-list markers are excluded from predictive inputs.
 Remediation features are retrospective. The original binaries cannot be used here
 to independently repeat the extraction or recover missing fine-grained features.
 
-## Publication status, licensing, and citation
+## Availability, licensing, and citation
 
-This is a **local release candidate**, not a claim that the repository is already
-public or that redistribution permissions have been cleared. No software or data
-license has been selected on behalf of the authors. Before publishing, the authors
-must approve redistribution, agree on licenses for code and data, and add the actual
-repository URL, author information, citation, and paper version.
+Repository: https://github.com/LeonLin427/PRISM
 
-After approval, tag the exact paper version and retain a stable release. Code and
-data licenses may differ; third-party APKs and downloaded papers are not included.
+This repository contains the research code, extracted static features, event
+labels, SDK matching rules, and experimental results. Event labels were compiled
+from public notices, APKs were obtained from public distribution channels, and
+SDK matching rules were compiled by the authors from APK analysis. Original APK
+binaries are not distributed. Data sources and collection procedures are
+described in the accompanying paper.
+
+The authors' code, documentation, and research data in this repository are
+provided under the [MIT License](LICENSE). Research data include the extracted
+static features, event labels, SDK matching rules, and experimental results.
+This license applies only to rights held by the contributors; it does not grant
+rights in third-party applications, SDKs, trademarks, or source material.
+Third-party dependencies retain their own licenses.
+
+If you use this repository in research, please cite the accompanying PRISM paper
+and identify the commit or release used. Citation is requested for scholarly
+attribution and is not an additional condition of the MIT License.
